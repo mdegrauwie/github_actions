@@ -1,5 +1,5 @@
 name: Control Push
-on: pushname: Pytest & flake8 control Push
+on: pushname: Control Push
 on: push
 jobs:
   qa:
