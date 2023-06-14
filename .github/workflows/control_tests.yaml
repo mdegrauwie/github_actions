@@ -1,5 +1,4 @@
 name: Control Push
-on: pushname: Control Push
 on: push
 jobs:
   qa:
